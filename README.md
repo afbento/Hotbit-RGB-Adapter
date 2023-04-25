@@ -5,6 +5,6 @@ Based on the circuit at : http://www.msxarchive.nl/pub/msx/mirrors/hanso/hwdoity
 
 Tested with VGA Monitor Samsung Syncmaster 510n (firmware 97D2). 
 
-I don´t know it works on others 15kHz monitor models.
+I don´t know if it works on others 15kHz monitor models.
 
 
