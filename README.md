@@ -7,4 +7,4 @@ Tested with VGA Monitor Samsung Syncmaster 510n (firmware 97D2).
 
 I don´t know if it works on others 15kHz monitor models.
 
-
+Project made on Proteus 8.9.
